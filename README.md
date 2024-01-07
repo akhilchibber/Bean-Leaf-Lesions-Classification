@@ -1,4 +1,4 @@
-# Machine Learning based Bean Leaf Lesions Classification
+# Deep Learning based Bean Leaf Lesions Classification
 <p align="center">
   <img src="https://github.com/akhilchibber/Bean-Leaf-Lesions-Classification/blob/main/Bean-Leaf-Lesions.png?raw=true" alt="earthml Logo">
 </p>
