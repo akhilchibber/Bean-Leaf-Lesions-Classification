@@ -1,6 +1,6 @@
 # Deep Learning based Bean Leaf Lesions Classification
 <p align="center">
-  <img src="https://github.com/akhilchibber/Bean-Leaf-Lesions-Classification/blob/main/Bean-Leaf-Lesions.jpg?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Bean-Leaf-Lesions-Classification/blob/main/Bean_Leaf_Lesions.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Contributing
