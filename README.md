@@ -7,7 +7,7 @@
 This repository contains a Deep Learning project focused on the classification of bean leaf lesions. Utilizing a dataset from Kaggle, the project aims to classify bean leaves into three categories: healthy, angular leaf spot, and bean rust. This is particularly significant for agricultural health monitoring and ensuring the well-being of bean crops.
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: Bean Leaf Lesions Classification Dataset. It includes 1,034 training images and 133 validation images across the three classes.
+The dataset used in this project can be found on Kaggle: [Bean Leaf Lesions Classification Dataset](https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification). It includes 1,034 training images and 133 validation images across the three classes.
 
 ## Repository Contents
 **Jupyter Notebook:** Contains the complete code for data preparation, model building, training, evaluation, and results visualization. The notebook is designed to be accessible for both beginners and those with experience in machine learning.
