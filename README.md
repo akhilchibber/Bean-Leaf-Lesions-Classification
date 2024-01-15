@@ -23,6 +23,15 @@ The dataset used in this project can be found on Kaggle: [Bean Leaf Lesions Clas
 ## Purpose
 This project serves as an educational tool for understanding and applying deep learning techniques in a real-world context. It demonstrates how machine learning can aid in crucial tasks like agricultural disease detection, providing valuable insights for crop management.
 
+## Getting Started
+To get started with this project:
+
+1. Clone this repository to your local machine.
+2. Ensure you have Jupyter Notebook installed and running.
+3. Install the required dependencies.
+4. Download the "Bean Leaf Lesions Classification Dataset" and place it in the designated directory.
+5. Open and run the Jupyter Notebook "Bean-Leaf-Lesions.ipynb" to train and evaluate the model.
+   
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
 
